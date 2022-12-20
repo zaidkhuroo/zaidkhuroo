@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zaid Khuroo
+- 👋 Hi, I’m Zaid
 - 👀 I’m interested in: Web Development
 - 🌱 I’m currently learning: Full Stack Web Development
 - 📫 How to reach me: khuroozaid@gmail.com
