@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Hostel Management System**
 
-- 🌱 I’m currently learning **React JS, MySQL, Mongo DB**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **zaidkhuroozaid@gmail.com**
 
