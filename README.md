@@ -5,5 +5,5 @@
 
 - 🌱 I’m currently learning **Backend.**
 
-- 📫 How to reach me **zaidkhuroozaid@gmail.com**
+- 📫 How to reach me **zaidkhuroo@gmail.com**
 
