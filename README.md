@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+😍;I'm+Zaid+; Web-Developer;Welcome+to+My+Gitub!&center=true&size=30&color=E2F516">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+😍;I'm+Zaid;Junior-web-Developer;Welcome+to+My+Gitub!&center=true&size=30&color=E2F516">
   </a>
 </h1>
 
@@ -39,7 +39,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
 
 
 
