@@ -6,7 +6,8 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <p align="left">
 
-[![](https://visitcount.itsvg.in/api?id=zaidkhuroo&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
+<a href="https://visitcount.itsvg.in" width="50%" margin="auto">
+  <img src="https://visitcount.itsvg.in/api?id=zaidkhuroo&label=Profile%20Views&icon=5&pretty=true" />
+</a>
 
 
