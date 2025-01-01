@@ -4,7 +4,8 @@
   </a>
 </h1>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-<p align="left"> 
+<p align="left">  -->
+![Zaid Bin Farooq](poster.png)
 
   
 
