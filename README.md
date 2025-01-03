@@ -7,6 +7,5 @@
 <p align="left">  -->
 ![Zaid Bin Farooq](poster.png)
 
-# Zaid Bin Farooq  
 
 
